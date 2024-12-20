@@ -41,10 +41,15 @@ You need a web browser to run this application.
 ### Usage
 
 -Enter the name of the music you want to search for in the input field.
+
 -Click the "Search" button.
+
 -The search results will be displayed in the "My Audios" list.
+
 -Click the "Add to Favorites" button to add a music item to the favorites list.
+
 -Click the "Delete" button to remove a music item from the "My Audios" list.
+
 -Click the "Remove" button to remove a music item from the "Favorites" list.
 
 ### License
