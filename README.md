@@ -54,3 +54,6 @@ You need a web browser to run this application.
 
 ### License
 Distributed under the MIT License. See [LICENSE](https://github.com/Nzyoki/myMusic/blob/master/LICENSE) for more information.
+
+### Contact Me
+scolanzioki18@gmail.com
