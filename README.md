@@ -18,7 +18,9 @@ MyMusic is a simple web application that allows users to search for music using 
 
 ### Project Structure
 -index.html: The main HTML file that contains the structure of the web page.
+
 -style.css: The CSS file that contains the styles for the web page.
+
 -script.js: The JavaScript file that contains the logic for fetching music from the iTunes API and managing the lists.
 
 
