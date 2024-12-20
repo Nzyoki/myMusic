@@ -33,7 +33,6 @@ You need a web browser to run this application.
 ### Installation
 
 1. Clone the repo
-   ```sh
   git@github.com:Nzyoki/myMusic.git
 2. Open the index.html file in your web browser.
 
@@ -47,4 +46,4 @@ You need a web browser to run this application.
 -Click the "Remove" button to remove a music item from the "Favorites" list.
 
 ### License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Nzyoki/myMusic/blob/master/LICENSE) for more information.
