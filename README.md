@@ -34,7 +34,7 @@ You need a web browser to run this application.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your-username/mymusic-app.git
+  git@github.com:Nzyoki/myMusic.git
 2. Open the index.html file in your web browser.
 
 ### Usage
